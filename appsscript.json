@@ -1,0 +1,37 @@
+{
+  "timeZone": "Asia/Kolkata",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "getUserId",
+      "functionName": "getUserId"
+    }, {
+      "menuName": "onboarding",
+      "functionName": "onboarding"
+    }, {
+      "menuName": "createTask",
+      "functionName": "createTask"
+    }, {
+      "menuName": "createTrigger1",
+      "functionName": "createTrigger1"
+    }, {
+      "menuName": "setValueStatus",
+      "functionName": "setValueStatus"
+    }, {
+      "menuName": "assigneId",
+      "functionName": "assigneId"
+    }, {
+      "menuName": "getTicketData",
+      "functionName": "getTicketData"
+    }, {
+      "menuName": "trigger1",
+      "functionName": "trigger1"
+    }, {
+      "menuName": "trigger2",
+      "functionName": "trigger2"
+    }]
+  }
+}
